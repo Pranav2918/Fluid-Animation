@@ -1,6 +1,6 @@
 # Fluid Animation
 
-A new Flutter project.
+- This app contains Liquide Animation
 
 ## Screenshots
 
